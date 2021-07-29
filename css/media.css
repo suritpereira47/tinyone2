@@ -1,0 +1,157 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	.menu ul li a {
+	  font-size: 20px;
+      text-align: right;
+      padding: 6px 0 !important;
+	}
+	/*header end*/
+
+	/*slider start*/
+	.s-text h1  {
+	text-align: center;
+	margin-top: 0;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.s-text h2{
+	text-align: center;
+	margin-top: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #313841;
+}
+.s-text p{
+	text-align: center;
+	margin-top: 15px;
+    color: #555555;
+}
+.icon_text{
+	text-align: center;
+}
+.icon_text ul li i{
+	font-size: 32px;
+	color: #010101;
+}
+.list-inline  {
+    padding-left: 32px;
+    list-style: none;
+}
+    /*slider end*/
+	.s-img {
+		text-align: center !important;
+	}
+	.s-img img{
+		width: 80%;
+
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+	.menu ul li a {
+	  font-size: 20px;
+      text-align: right;
+      padding: 6px 0 !important;
+	}
+	/*header end*/
+
+	/*slider start*/
+	.s-text h1  {
+	text-align: center;
+	margin-top: 0;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.s-text h2{
+	text-align: center;
+	margin-top: 15px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #313841;
+}
+.s-text p{
+	text-align: center;
+	margin-top: 15px;
+    color: #555555;
+}
+.icon_text{
+	text-align: center;
+}
+.icon_text ul li i{
+	font-size: 32px;
+	color: #010101;
+}
+.list-inline  {
+    padding-left: 32px;
+    list-style: none;
+}
+   /*slider end*/
+	.s-img {
+		text-align: center !important;
+	}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	.menu ul li a {
+      text-align: right;
+      padding: 6px 0 !important;
+	}
+	/*header end*/
+
+	/*slider start*/
+	.s-text h1  {
+	text-align: center;
+	margin-top: 0;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.s-text h2{
+	text-align: center;
+	margin-top: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+}
+.s-text p{
+	text-align: center;
+	margin-top: 15px;
+    color: #555555;
+}
+.icon_text{
+	text-align: center;
+}
+.list-inline  {
+    padding-left: 32px;
+    list-style: none;
+}
+
+
+    /*slider end*/
+	.s-img {
+		text-align: center !important;
+	}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	
+}
+
+/*X-Large devices (large desktop, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*XX-Large devices (larger desktop, 1400px and up) */
+@media (min-width: 1400px) {
+	
+}
